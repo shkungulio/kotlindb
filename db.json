@@ -14,7 +14,7 @@
     { "id": 12, "text": "Does Kotlin have the static keyword?" },
 	{ "id": 13, "text": "Is 'new' a keyword in Kotlin?" },
     { "id": 14, "text": "How do you get the length of a string in Kotlin?" },
-    { "id": 15, "text": "All classes in Kotlin classes are by default?", }
+    { "id": 15, "text": "All classes in Kotlin classes are by default?" }
   ],
   "answers": [
     { "id": 1, "body": "Google", "is_correct" : "false", "qid": 1 },
