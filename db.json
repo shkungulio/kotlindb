@@ -78,7 +78,7 @@
     { "id": 59, "body": "sealed", "is_correct" : "false", "qid": 15 },
     { "id": 60, "body": "abstract", "is_correct" : "false", "qid": 15 }
   ],
-  "quiz": {
-    "name": "team3-quiz"
+  "profile": {
+    "name": "team3Quiz"
   }
 }
