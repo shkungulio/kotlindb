@@ -1,0 +1,99 @@
+{
+  "questions": [
+    { "qid": 1, "text": "Kotlin was developed by?" },
+    { "qid": 2, "text": "Which of following is used to handle null exceptions in Kotlin?" },
+	{ "qid": 3, "text": "Which file extension is used to save Kotlin files." },
+    { "qid": 4, "text": "Kotlin was developed under the .......... license." },
+	{ "qid": 5, "text": "Which of the followings constructors are available in Kotlin?" },
+    { "qid": 6, "text": "Is Kotlin compatible with the Java programming language?" },
+	{ "qid": 7, "text": "What is an immutable variable?" },
+    { "qid": 8, "text": "What is correct way to create an arraylist in Kotlin?" },
+	{ "qid": 9, "text": "There are two types of constructors in Kotlin which are-" },
+    { "qid": 10, "text": "Which of the following is not the basic data types in Kotlin?" },
+	{ "qid": 11, "text": "Can we execute Kotlin code without JVM?" },
+    { "qid": 12, "text": "Does Kotlin have the static keyword?" },
+	{ "qid": 13, "text": "Is 'new' a keyword in Kotlin?" },
+    { "qid": 14, "text": "How do you get the length of a string in Kotlin?" },
+    { "qid": 15, "text": "All classes in Kotlin classes are by default?", }
+  ],
+  "answers": [
+    { "id": 1, "body": "Google", "is_correct" : "false", "qid": 1 },
+    { "id": 2, "body": "JetBrains", "is_correct" : "true", "qid": 1 },
+    { "id": 3, "body": "Microsoft", "is_correct" : "false", "qid": 1 },
+    { "id": 4, "body": "Adobe", "is_correct" : "false", "qid": 1 },
+	
+    { "id": 5, "body": "Elvis Operator", "is_correct" : "true", "qid": 2 },
+    { "id": 6, "body": "Sealed Class", "is_correct" : "false", "qid": 2 },
+    { "id": 7, "body": "Range", "is_correct" : "false", "qid": 2 },
+    { "id": 8, "body": "Lambda function", "is_correct" : "false", "qid": 2 },
+	
+    { "id": 9, "body": ".java", "is_correct" : "false", "qid": 3 },
+    { "id": 10, "body": ".kot", "is_correct" : "false", "qid": 3 },
+    { "id": 11, "body": ".android", "is_correct" : "false", "qid": 3 },
+    { "id": 12, "body": ".kt or .kts", "is_correct" : "true", "qid": 3 },
+	
+	{ "id": 13, "body": "Apache 1.0", "is_correct" : "false", "qid": 4 },
+    { "id": 14, "body": "Apache 2.0", "is_correct" : "true", "qid": 4 },
+    { "id": 15, "body": "Apache 1.1", "is_correct" : "false", "qid": 4 },
+    { "id": 16, "body": "None of the above", "is_correct" : "false", "qid": 4 },
+	
+    { "id": 17, "body": "Primary constructor", "is_correct" : "false", "qid": 5 },
+    { "id": 18, "body": "Secondary constructor", "is_correct" : "false", "qid": 5 },
+    { "id": 19, "body": "All of the above", "is_correct" : "true", "qid": 5 },
+    { "id": 20, "body": "None of the above", "is_correct" : "false", "qid": 5 },
+	
+    { "id": 21, "body": "Yes", "is_correct" : "true", "qid": 6 },
+    { "id": 22, "body": "No", "is_correct" : "false", "qid": 6 },
+    { "id": 23, "body": "All of the above", "is_correct" : "false", "qid": 6 },
+    { "id": 24, "body": "None of the above",, "is_correct" : "false", "qid": 6 },
+	
+	{ "id": 25, "body": "A variable that cannot change, read-only", "is_correct" : "true", "qid": 7 },
+    { "id": 26, "body": "A variable that can be changed", "is_correct" : "false", "qid": 7 },
+    { "id": 27, "body": "A variable used for string interpolation", "is_correct" : "false", "qid": 7 },
+    { "id": 28, "body": "A variable that is null", "is_correct" : "false", "qid": 7 },
+	
+    { "id": 29, "body": "val map = hashMapOf(1 to 'one', 2 to 'two', 3 to 'three')", "is_correct" : "false", "qid": 8 },
+    { "id": 30, "body": "enum class Color {RED, GREEN, BLUE}", "is_correct" : "false", "qid": 8 },
+    { "id": 31, "body": "val list = arrayListOf(1, 2, 3)", "is_correct" : "true", "qid": 8 },
+    { "id": 32, "body": "val set = hashSetOf(1, 2, 3)", "is_correct" : "false", "qid": 8 },
+	
+    { "id": 33, "body": "Primary & Secondary constructor", "is_correct" : "true", "qid": 9 },
+    { "id": 34, "body": "Default & No-arg constructor", "is_correct" : "false", "qid": 9 },
+	{ "id": 35, "body": "Parameterized & constant Constructor", "is_correct" : "false", "qid": 9 },
+    { "id": 36, "body": "None of the above", "is_correct" : "false", "qid": 9 },
+	
+    { "id": 37, "body": "Numbers", "is_correct" : "false", "qid": 10 },
+	{ "id": 38, "body": "Strings", "is_correct" : "false", "qid": 10 },
+    { "id": 39, "body": "Arrays", "is_correct" : "false", "qid": 10 },
+    { "id": 40, "body": "Lists", "is_correct" : "true", "qid": 10 },
+	
+    { "id": 41, "body": "Yes", "is_correct" : "true", "qid": 11 },
+    { "id": 42, "body": "No", "is_correct" : "false", "qid": 11 },
+    { "id": 43, "body": "May be", "is_correct" : "false", "qid": 11 },
+    { "id": 44, "body": "None of the above", "is_correct" : "false", "qid": 11 },
+	
+    { "id": 45, "body": "Yes", "is_correct" : "false", "qid": 12 },
+    { "id": 46, "body": "No", "is_correct" : "true", "qid": 12 },
+    { "id": 47, "body": "May be", "is_correct" : "false", "qid": 12 },
+    { "id": 48, "body": "None of the above", "is_correct" : "false", "qid": 12 },
+	
+    { "id": 49, "body": "Yes", "is_correct" : "false", "qid": 13 },
+	{ "id": 50, "body": "No", "is_correct" : "true", "qid": 13 },
+    { "id": 51, "body": "May be", "is_correct" : "false", "qid": 13 },
+    { "id": 52, "body": "None of the above", "is_correct" : "false", "qid": 13 },
+	
+    { "id": 53, "body": "str.size", "is_correct" : "true", "qid": 14 },
+    { "id": 54, "body": "length(str)", "is_correct" : "false", "qid": 14 },
+    { "id": 55, "body": "str.lengthOf", "is_correct" : "false", "qid": 14 },
+    { "id": 56, "body": "isLength(str)", "is_correct" : "false", "qid": 14 },
+	
+    { "id": 57, "body": "public", "is_correct" : "false", "qid": 15 },
+    { "id": 58, "body": "final", "is_correct" : "true", "qid": 15 },
+    { "id": 59, "body": "sealed", "is_correct" : "false", "qid": 15 },
+    { "id": 60, "body": "abstract", "is_correct" : "false", "qid": 15 }
+    
+  ],
+  "quiz": {
+    "name": "team3-quiz"
+  }
+}
