@@ -40,7 +40,7 @@
     { "id": 21, "body": "Yes", "is_correct" : "true", "qid": 6 },
     { "id": 22, "body": "No", "is_correct" : "false", "qid": 6 },
     { "id": 23, "body": "All of the above", "is_correct" : "false", "qid": 6 },
-    { "id": 24, "body": "None of the above",, "is_correct" : "false", "qid": 6 },
+    { "id": 24, "body": "None of the above", "is_correct" : "false", "qid": 6 },
 	{ "id": 25, "body": "A variable that cannot change, read-only", "is_correct" : "true", "qid": 7 },
     { "id": 26, "body": "A variable that can be changed", "is_correct" : "false", "qid": 7 },
     { "id": 27, "body": "A variable used for string interpolation", "is_correct" : "false", "qid": 7 },
