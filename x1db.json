@@ -43,7 +43,7 @@
     { "id": 29, "body": "final", "is_correct" : "true", "qId": 10 },
     { "id": 30, "body": "sealed", "is_correct" : "false", "qId": 10 }
   ],
-  "profile": {
+  "quiz": {
     "name": "team3Quiz"
   }
 }
