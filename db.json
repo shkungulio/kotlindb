@@ -12,6 +12,6 @@
 	  { "id": 10, "question": "All classes in Kotlin classes are by default?", "A" : "public", "B" : "final", "C" : "sealed", "correctAnswer" : 2 }
   ],
 	"quiz": {
-		"name": "bongonetsQuiz"
+		"name": "kotlinQuiz"
 	}
 }
