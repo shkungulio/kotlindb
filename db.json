@@ -1,0 +1,142 @@
+{
+	"questions": [
+		{
+			"id":1,
+			"question": "Kotlin was developed by?",
+			"A": "Google",
+			"B": "JetBrains",
+			"C": "Microsoft",
+			"D": "Adobe",
+			"correctAnswer": 2
+		},
+		{
+			"id":2,
+			"question": "Which of following is used to handle null exceptions in Kotlin?",
+			"A": "Elvis Operator",
+			"B": "Sealed Class",
+			"C": "Range",
+			"D": "Lambda function",
+			"correctAnswer": 1
+		},
+		{
+			"id":3,
+			"question": "Which file extension is used to save Kotlin files.",
+			"A": ".java",
+			"B": ".kot",
+			"C": ".android",
+			"D": ".kt or .kts",
+			"correctAnswer": 4
+		},
+		{
+			"id":4,
+			"question": "Kotlin was developed under the .......... license.",
+			"A": "Apache 1.0",
+			"B": "Apache 2.0",
+			"C": "Apache 1.1",
+			"D": "None of the above",
+			"correctAnswer": 2
+		},
+		{
+			"id":5,
+			"question": "Which of the followings constructors are available in Kotlin?",
+			"A": "Primary constructor",
+			"B": "Secondary constructor",
+			"C": "All of the above",
+			"D": "None of the above",
+			"correctAnswer": 3
+		},
+		{
+			"id":6,
+			"question": "Is Kotlin compatible with the Java programming language?",
+			"A": "Yes",
+			"B": "No",
+			"C": "All of the above",
+			"D": "None of the above",
+			"correctAnswer": 1
+		},
+		{
+			"id":7,
+			"question": "What is an immutable variable?",
+			"A": "A variable that cannot change, read-only",
+			"B": "A variable that can be changed",
+			"C": "A variable used for string interpolation",
+			"D": "A variable that is null",
+			"correctAnswer": 1
+		},
+		{
+			"id":8,
+			"question": "What is correct way to create an arraylist in Kotlin?",
+			"A": "val map = hashMapOf(1 to 'one', 2 to 'two', 3 to 'three')",
+			"B": "enum class Color {RED, GREEN, BLUE}",
+			"C": "val list = arrayListOf(1, 2, 3)",
+			"D": "val set = hashSetOf(1, 2, 3)",
+			"correctAnswer": 3
+		},
+		{
+			"id":9,
+			"question": "There are two types of constructors in Kotlin which are-",
+			"A": "Primary & Secondary constructor",
+			"B": "Default & No-arg constructor",
+			"C": "Parameterized & constant Constructor",
+			"D": "None of the above",
+			"correctAnswer": 1
+		},
+		{
+			"id":10,
+			"question": "Which of the following is NOT the basic data types in Kotlin?",
+			"A": "Numbers",
+			"B": "Strings",
+			"C": "Arrays",
+			"D": "Lists",
+			"correctAnswer": 4
+		},
+		{
+			"id":11,
+			"question": "Can we execute Kotlin code without JVM?",
+			"A": "Yes",
+			"B": "No",
+			"C": "May be",
+			"D": "None of the above",
+			"correctAnswer": 1
+		},
+		{
+			"id":12,
+			"question": "Does Kotlin have the static keyword?",
+			"A": "Yes",
+			"B": "No",
+			"C": "May be",
+			"D": "None of the above",
+			"correctAnswer": 2
+		},
+		{
+			"id":13,
+			"question": "Is 'new' a keyword in Kotlin?",
+			"A": "Yes",
+			"B": "No",
+			"C": "May be",
+			"D": "None of the above",
+			"correctAnswer": 2
+		},
+		{
+			"id":14,
+			"question": "How do you get the length of a string in Kotlin?",
+			"A": "str.size",
+			"B": "length(str)",
+			"C": "str.lengthOf",
+			"D": "isLength(str)",
+			"correctAnswer": 1
+		},
+		{
+			"id":15,
+			"question": "All classes in Kotlin classes are by default?",
+			"A": "public",
+			"B": "final",
+			"C": "sealed",
+			"D": "abstract",
+			"correctAnswer": 2
+		}
+	],
+	  "quiz": {
+		  "name": "kotlinQuiz"
+	  }
+  }
